@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @winter-hawk
 - 👀 I’m interested in multiplatform journalism with a focus in magazine publication and feature writing.
 - 🌱 I’m currently learning how to code in HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whawk@terpmail.umd.edu
 
 <!---
